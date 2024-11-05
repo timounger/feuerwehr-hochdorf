@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['zimpressum_2emd_0',['zImpressum.md',['../z_impressum_8md.html',1,'']]]
+  ['the_20date_0',['Save The Date',['../index.html',1,'']]],
+  ['tmg_1',['Anbieter im Sinne des §5 TMG',['../_impressum.html#autotoc_md10',1,'']]]
 ];

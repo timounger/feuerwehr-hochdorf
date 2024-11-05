@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['save_20the_20date_0',['Save The Date',['../index.html',1,'']]]
+  ['impressum_20✉_0',['Datenschutz &amp; Impressum ✉',['../_impressum.html',1,'']]]
 ];

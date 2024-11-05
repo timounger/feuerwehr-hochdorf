@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['über_20uns_0',['Über uns',['../_xC3_x9Cber_01uns.html',1,'']]]
+  ['verweise_20und_20links_0',['2. Verweise und Links',['../_impressum.html#autotoc_md12',1,'']]]
 ];

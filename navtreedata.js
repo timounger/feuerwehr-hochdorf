@@ -27,6 +27,10 @@ var NAVTREE =
   [ "Feuerwehr Hochdorf", "index.html", [
     [ "Save The Date", "index.html", null ],
     [ "Über uns", "_xC3_x9Cber_01uns.html", null ],
+    [ "Jugendfeuerwehr", "_jugendfeuerwehr.html", null ],
+    [ "Just For Fun", "_just_01_for_01_fun.html", null ],
+    [ "Mickie Krause", "_mickie_01_krause.html", null ],
+    [ "Programm", "_programm.html", null ],
     [ "Datenschutz & Impressum ✉", "_impressum.html", null ]
   ] ]
 ];

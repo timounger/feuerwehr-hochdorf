@@ -34,7 +34,7 @@ html {
     --primary-light-color: #70b1e9;
 
     /* page base colors */
-    --page-background-color: #ffffff;
+    --page-background-color: #D4CCC2;
     --page-foreground-color: #2f4153;
     --page-secondary-foreground-color: #6f7e8e;
 
@@ -153,7 +153,7 @@ html {
     --fragment-lineheight: 20px;
 
     /* sidebar navigation (treeview) colors */
-    --side-nav-background: #fbfbfb;
+    --side-nav-background: #DDD9D0;
     --side-nav-foreground: var(--page-foreground-color);
     --side-nav-arrow-opacity: 0;
     --side-nav-arrow-hover-opacity: 0.9;
